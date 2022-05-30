@@ -56,8 +56,8 @@ To open the dashboard run the [Final_assignment_Data_Analysis.ipynb](analysis/Fi
 | ---------------------------------------------------- | :------: |
 | [numpy](https://numpy.org/)                          | `1.21.2` |
 | [pandas](https://pandas.pydata.org/)                 | `1.3.3`  |
-| [xgboost]  py39haa95532_1                            | `1.5.0`  | 
-| [scikit-learn]    py39hf11a4ad_1                     | `1.0.2`  |            
+| xgboost  py39haa95532_1                            | `1.5.0`  | 
+| scikit-learn    py39hf11a4ad_1                     | `1.0.2`  |            
 | [jupyter](https://jupyter.org/)                      | `1.0.0`  |
 
 
