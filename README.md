@@ -13,15 +13,7 @@ Data is publicly available under [https://archive.ics.uci.edu/ml/datasets/Parkin
 ## Single install
 The easiest way to install all the required packages is via conda. How to install conda on your system can be found [here](https://docs.anaconda.com/anaconda/install/index.html).
 
-To create a new environment which contains all the required packages plus the right version run the following code:
 
-```bash
-  conda env create -f environment.yml
-```
-
-This will create a new environment named `mosquito_env` which can be used to run this repository.
-
-> NOTE: the environment.yml is located in the install/ directory [here](install/environment.yml).
 
 ## Multiple installs
 An other option is to install each package seperately, either with conda or pip.
